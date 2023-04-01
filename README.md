@@ -32,12 +32,13 @@ External members allowed: false
 ## Author
 
 Régis SENET ([rsenet](https://github.com/rsenet))
-More information on https://orhus.fr/
+
+More information on https://orhus.fr/2022/08/17/google-et-la-securite-des-groupes/ (in French)
 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/firebaseWritableCheck).
+Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/gooGroup).
 
 ## License
 
