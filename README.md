@@ -33,7 +33,7 @@ External members allowed: false
 
 Régis SENET ([rsenet](https://github.com/rsenet))
 
-More information on https://orhus.fr/2022/08/17/google-et-la-securite-des-groupes/ (in French)
+More information on https://orhus.fr/google-et-la-securite-des-groupes/ (in French)
 
 
 ## Contributing
